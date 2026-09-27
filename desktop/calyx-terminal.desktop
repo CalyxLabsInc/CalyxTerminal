@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Calyx Terminal
+GenericName=Terminal Emulator
+Comment=Neon-pink VT-compatible terminal emulator
+Exec=calyx-terminal
+TryExec=calyx-terminal
+Icon=calyx-terminal
+Terminal=false
+Categories=System;TerminalEmulator;
+Keywords=terminal;shell;command;calyx;
+StartupNotify=true
+StartupWMClass=CalyxTerminalWindow

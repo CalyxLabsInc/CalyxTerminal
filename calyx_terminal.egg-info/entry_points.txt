@@ -1,0 +1,2 @@
+[console_scripts]
+calyx-terminal = calyx_terminal.application:run

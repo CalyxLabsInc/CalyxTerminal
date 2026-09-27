@@ -1,0 +1,2 @@
+PySide6<7,>=6.7
+pyside6-qtermwidget<0.6,>=0.5.6.11.1
